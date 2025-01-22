@@ -17,5 +17,4 @@ Requirements
 - No additional installations required
 
 Acknowledgments <br>
-Special thanks to our Animation Techniques lecturers for their support and feedback throughout the development process."# AOS" 
-"# Attack-On-Space" 
+Special thanks to our Animation Techniques lecturers for their support and feedback throughout the development process.
